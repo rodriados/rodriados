@@ -8,11 +8,11 @@ well-written or really relevant documents in these logs nor judge me for my
 momentary personal opinions. Be warned that absolutely nothing here represents
 anyone or anything other than my own self at a given context or point of my life.
 
-As a perfectionist, I know I will certainly not keep up with the promisse of
+As a perfectionist, I know I will certainly not keep up with the promise of
 unedited and unfiltered logs of my own mind. I may strongly try not to, but
 a complete refactoring of these files is foreseeable and even *highly*
 likely. The very existence of these logs is not guaranteed for long.
 
-Finally, pardon me for eventual spelling and grammar errors.
+Finally, I apologize for eventual spelling and grammar errors.
 
 [2021](2021)
