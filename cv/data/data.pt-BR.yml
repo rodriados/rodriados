@@ -1,0 +1,165 @@
+name: Rodrigo Siqueira
+location: Campo Grande, MS, Brasil
+
+summary:
+  Desenvolvedor e engenheiro de software especialista em back-end com experiência
+  profissional em empresas nacional e mundialmente conhecidas.
+
+mission:
+  Desenvolvimento de um mundo melhor através da criação de soluções tecnológicas
+  que objetivam facilitar e tranquilizar a vida da sociedade.
+
+contact:
+  email:    rodriados at gmail dot com
+  github:   rodriados
+  linkedin: rodriados
+
+education:
+  - entity:     Universidade Federal de Mato Grosso do Sul
+    credential: Bacharel em Ciência da Computação
+    location:   Campo Grande, MS, Brasil
+    started:    { month:  2, year: 2012 }
+    stopped:    { month:  8, year: 2017 }
+    details:
+      - Integrante do Laboratório de Inteligência Artificial (LIA)
+      - Programa "Ciência sem Fronteiras" pela CAPES em 2015/2016
+
+  - entity:     Universidade do Estado do Arizona
+    credential: Aluno de intercâmbio internacional
+    location:   Tempe, AZ, Estados Unidos
+    started:    { month:  8, year: 2015 }
+    stopped:    { month:  5, year: 2016 }
+    gpa:        "3.44 (4.0 = A)"
+    details:
+      - Estudante patrocinado pelo programa "Ciência sem Fronteiras"
+      - Vice-presidente do clube da Língua Portuguesa
+
+  - entity:     Instituto de Tecnologia do Illinois
+    credential: Aluno-pesquisador de verão
+    location:   Chicago, IL, Estados Unidos
+    started:    { month:  6, year: 2016 }
+    stopped:    { month:  8, year: 2016 }
+    details:
+      - Pesquisa entitulada "Animal & Pothole Avoidance System"
+      - Orientado pelo Prof. Bob Carlson
+
+  - entity:     Universidade Federal de Mato Grosso do Sul
+    credential: Mestre em Ciência da Computação
+    location:   Campo Grande, MS, Brasil
+    started:    { month:  3, year: 2018 }
+    stopped:    { month:  8, year: 2021 }
+    details:
+      - Trabalho entitulado "Alinhamento global de múltiplas sequências biológicas utilizando cluster de GPUs"
+      - Orientado pelo Prof. Dr. Marco Aurélio Stefanes
+
+experience:
+  - entity:     Universidade Federal de Mato Grosso do Sul
+    role:       Tutor Acadêmico
+    type:       Aprendizagem
+    location:   Campo Grande, MS, Brasil
+    started:    { month: 10, year: 2012 }
+    stopped:    { month:  3, year: 2013 }
+    details:
+      - Proveu tutoria acadêmica para curso de nível universitário
+      - Desenvolveu material didático adicional a professor universitário
+      - Ofereceu tutoria semanal e assitência acadêmica presencial
+
+  - entity:     PSG Tecnologia Aplicada
+    role:       Assitente de Tecnologia da Informação
+    type:       Meio Período
+    location:   Campo Grande, MS, Brasil
+    started:    { month:  8, year: 2013 }
+    stopped:    { month:  8, year: 2015 }
+    details:
+      - Desenvolveu software responsável pela análise de falhas em plantações de cana-de-açúcar
+      - Utilizou técnicas de Inteligência Artificial para o reconhecimento de padrões em imagens aéreas
+      - Adquiriu experiência em manipulação de imagens de alta qualidade e frameworks de interface gráfica
+      - Desenvolveu projeto utilizando Python, OpenCV e wxWidgets
+
+  - entity:     Embrapa, Gado de Corte
+    role:       Desenvolvedor em Tecnologia da Informação
+    type:       Estágio
+    location:   Campo Grande, MS, Brasil
+    started:    { month:  5, year: 2017 }
+    stopped:    { month:  8, year: 2017 }
+    details:
+      - Projetou e administrou sistema de banco de dados SQL
+      - Desenvolveu front-end para plataforma "Mais Precoce" em AngularJS, Bootstrap e PHP
+
+  - entity:     Before Tecnologia da Informação
+    role:       Desenvolvedor Back-end
+    type:       Tempo Integral
+    location:   Campo Grande, MS, Brasil
+    started:    { month: 12, year: 2019 }
+    stopped:    { month:  9, year: 2020 }
+    details:
+      - Desenvolveu sistemas de Data Warehouse utilizando PHP, MySQL e Elasticsearch
+      - Desenvolvimento back-end de sistemas de produção em larga escala
+
+  - entity:     Nibo Softwares e Cursos
+    role:       Desenvolvedor Back-end
+    type:       Tempo Integral
+    location:   Rio de Janeiro, RJ, Brasil
+      remote:   true
+    started:    { month:  9, year: 2020 }
+    stopped:    { month:  5, year: 2021 }
+    details:
+      - Desenvolveu Impressora PDF Virtual para Windows 10 usando .NET framework
+      - Desenvolveu sistemas para Extração de Dados de Documentos usando C# e Kotlin
+      - Desenvolveu APIs REST para sistemas de alta escala e demanda usando frameworks .NET
+
+  - entity:     GFT Group Brasil
+    role:       Desenvolvedor Back-end .NET
+    type:       Tempo Integral
+    location:   Sorocaba, SP, Brasil
+      remote:   true
+    started:    { month:  6, year: 2021 }
+    stopped:    false
+    details:
+      - Desenvolveu sistema responsável para a compilação de dados públicos do OpenBanking Brasil
+      - Modelou e projetou banco de dados não-relacional CosmosDB
+
+languages:
+  - language:   { name: português brasileiro, symbol: pt-BR }
+    skills:     [ fala, leitura, escrita ]
+    level:      nativo
+
+  - language:   { name: inglês, symbol: en-US }
+    skills:     [ fala, leitura, escrita ]
+    level:      c2
+
+  - language:   { name: espanhol, symbol: es }
+    skills:     [ fala, leitura, escrita ]
+    level:      c1
+
+  - language:   { name: alemão, symbol: de-DE }
+    skills:     [ fala, leitura, escrita ]
+    level:      b1
+
+awards:
+  - title:      XIX Maratona Brasileira de Programação
+    location:   Fortaleza, CE, Brasil
+    date:       { month: [ 9, 11], year: 2014 }
+    details:
+      - Primeiro nas qualificatórias de Mato Grosso do Sul
+      - Participação nas finais brasileiras, representando ao estado de Mato Grosso do Sul
+
+  - title:      XXI Maratona Brasileira de Programação
+    location:   Belo Horizonte, MG, Brasil
+    date:       { month: [ 9, 11], year: 2016 }
+    details:
+      - Primeiro nas qualificatórias regionais entre os estados de Mato Grosso e Mato Grosso do Sul
+      - Participação nas finais brasileiras, representando ao estado de Mato Grosso do Sul
+
+  - title:      XIV Maratona Brasileira de Programação Paralela
+    date:       { month: 10, year: 2019 }
+    details:
+      - Medalha de prata da Competição Presencial
+      - Evento realizado durante a conferência SBAC-PAD
+
+publications:
+  - title:      Multi-GPU Approach for Large-Scale Multiple Sequence Alignment
+    date:       { month:  9, year: 2021 }
+    details:
+      - Trabalho apresentado na Conferência Internacional de Ciência Computacional e suas Aplicações
+      - Trabalho desenvolvido para a conclusão de curso de Mestrado em Ciência da Computação

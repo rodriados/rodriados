@@ -1,0 +1,165 @@
+name: Rodrigo Siqueira
+location: Campo Grande, MS, Brazil
+
+summary:
+  Developer and software engineer specialized on back-end with professional experience
+  adquired in companies of international recognition.
+
+mission:
+  The development of a better world through the creation of technological solutions
+  aiming to make life in our society easier and more comfortable.
+
+contact:
+  email:    rodriados at gmail dot com
+  github:   rodriados
+  linkedin: rodriados
+
+education:
+  - entity:     Federal University of Mato Grosso do Sul
+    credential: Bachelor in Computer Science
+    location:   Campo Grande, MS, Brazil
+    started:    { month:  2, year: 2012 }
+    stopped:    { month:  8, year: 2017 }
+    details:
+      - Participated on the university's Artificial Intelligence Lab (LIA)
+      - Recipient of Brazil Scientific Mobility Program Scholarship
+
+  - entity:     Arizona State University
+    credential: Non-degree International Student
+    location:   Tempe, AZ, United States
+    started:    { month:  8, year: 2015 }
+    stopped:    { month:  5, year: 2016 }
+    gpa:        "3.44 (4.0 = A)"
+    details:
+      - Exchange student sponsored by the Brazil Scientific Mobility Program
+      - Former vice-president of the university's Portuguese Language club
+
+  - entity:     Illinois Institute of Technology
+    credential: Summer Researcher
+    location:   Chicago, IL, United States
+    started:    { month:  6, year: 2016 }
+    stopped:    { month:  8, year: 2016 }
+    details:
+      - Participated on research project entitled "Animal & Pothole Avoidance System"
+      - Oriented by Prof. Bob Carlson
+
+  - entity:     Federal University of Mato Grosso do Sul
+    credential: Master of Science in Computer Science
+    location:   Campo Grande, MS, Brazil
+    started:    { month:  3, year: 2018 }
+    stopped:    { month:  8, year: 2021 }
+    details:
+      - Thesis entitled "Multi-GPU Approach for Large-Scale Multiple Sequence Alignment"
+      - Oriented by Prof. Dr. Marco Aurélio Stefanes
+
+experience:
+  - entity:     Federal University of Mato Grosso do Sul
+    role:       Academic Tutor
+    type:       Apprenticeship
+    location:   Campo Grande, MS, Brazil
+    started:    { month: 10, year: 2012 }
+    stopped:    { month:  3, year: 2013 }
+    details:
+      - Provided academic tutoring for university-level course
+      - Developed additional courseware for professor
+      - Offered weekly tutoring and in-class assistance
+
+  - entity:     PSG Tecnologia Aplicada
+    role:       Information Technology Assistant
+    type:       Part-time
+    location:   Campo Grande, MS, Brazil
+    started:    { month:  8, year: 2013 }
+    stopped:    { month:  8, year: 2015 }
+    details:
+      - Developed software responsible for analyzing and counting sugarcane crops imperfections
+      - Used Artificial Intelligence methods for pattern recognition in aerial images taken by drones
+      - Achieved high-definition images manipulation and GUI framework experience
+      - Developed project in Python, using OpenCV and wxWidgets
+
+  - entity:     Embrapa, Gado de Corte
+    role:       Information Technology Developer
+    type:       Internship
+    location:   Campo Grande, MS, Brazil
+    started:    { month:  5, year: 2017 }
+    stopped:    { month:  8, year: 2017 }
+    details:
+      - SQL Database designer and manager
+      - Front-end designer and developer, using AngularJS, Bootstrap and PHP
+
+  - entity:     Before Tecnologia da Informação
+    role:       Back-end Developer
+    type:       Full-time
+    location:   Campo Grande, MS, Brazil
+    started:    { month: 12, year: 2019 }
+    stopped:    { month:  9, year: 2020 }
+    details:
+      - Developed Data Warehouse systems using PHP, MySQL and Elasticsearch
+      - Back-end development for large-scale production systems
+
+  - entity:     Nibo Softwares e Cursos
+    role:       Back-end Developer
+    type:       Full-time
+    location:   Rio de Janeiro, RJ, Brazil
+      remote:   true
+    started:    { month:  9, year: 2020 }
+    stopped:    { month:  5, year: 2021 }
+    details:
+      - Developed Virtual PDF Printer for Windows 10 using .NET framework.
+      - Developed Document Data Extraction systems using C# and Kotlin.
+      - Developed REST APIs for large-scale and high demand systems using .NET frameworks.
+
+  - entity:     GFT Group Brazil
+    role:       .NET Back-end Developer
+    type:       Full-time
+    location:   Sorocaba, SP, Brazil
+      remote:   true
+    started:    { month:  6, year: 2021 }
+    stopped:    false
+    details:
+      - Developed system responsible for compiling public data from Brazil's OpenBanking APIs
+      - Modelled and projected non-relation database using CosmosDB
+
+languages:
+  - language:   { name: brazilian portuguese, symbol: pt-BR }
+    skills:     [ speaking, reading, writing ]
+    level:      native
+
+  - language:   { name: inglês, symbol: en-US }
+    skills:     [ speaking, reading, writing ]
+    level:      c2
+
+  - language:   { name: espanhol, symbol: es }
+    skills:     [ speaking, reading, writing ]
+    level:      c1
+
+  - language:   { name: alemão, symbol: de-DE }
+    skills:     [ speaking, reading, writing ]
+    level:      b1
+
+awards:
+  - title:      The 2014 ACM International Collegiate Programming Contest South America/Brazil Finals
+    location:   Fortaleza, CE, Brazil
+    date:       { month: [ 9, 11], year: 2014 }
+    details:
+      - First in Mato Grosso do Sul's Qualifiers
+      - Participated in the Brazilian Finals, representing Mato Grosso do Sul
+
+  - title:      The 2016 ACM International Collegiate Programming Contest South America/Brazil Finals
+    location:   Belo Horizonte, MG, Brasil
+    date:       { month: [ 9, 11], year: 2016 }
+    details:
+      - First in the Qualifiers for Mato Grosso and Mato Grosso do Sul
+      - Participated in the Brazilian Finals, representing Mato Grosso do Sul
+
+  - title:      The 14th Brazilian Marathon of Parallel Programming
+    date:       { month: 10, year: 2019 }
+    details:
+      - Silver Medal in the Presential Contest
+      - Event held within the 2019 SBAC-PAD Conference
+
+publications:
+  - title:      Multi-GPU Approach for Large-Scale Multiple Sequence Alignment
+    date:       { month:  9, year: 2021 }
+    details:
+      - Work presented in The International Conference on Computational Science and its Applications
+      - Work developed for Masters degree in Computer Science
