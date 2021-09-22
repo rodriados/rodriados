@@ -1,5 +1,6 @@
 name: Rodrigo Siqueira
 location: Campo Grande, MS, Brazil
+orcid: 0000-0002-0193-5188
 
 summary:
   Developer and software engineer specialized on back-end with professional experience
@@ -159,6 +160,7 @@ awards:
 
 publications:
   - title:      Multi-GPU Approach for Large-Scale Multiple Sequence Alignment
+    doi:        10.1007/978-3-030-86653-2_41
     date:       { month:  9, year: 2021 }
     details:
       - Work presented in The International Conference on Computational Science and its Applications
