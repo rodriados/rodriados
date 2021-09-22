@@ -139,14 +139,14 @@ languages:
 awards:
   - title:      The 2014 ACM International Collegiate Programming Contest South America/Brazil Finals
     location:   Fortaleza, CE, Brazil
-    date:       { month: [ 9, 11], year: 2014 }
+    date:       { month: 11, year: 2014 }
     details:
       - First in Mato Grosso do Sul's Qualifiers
       - Participated in the Brazilian Finals, representing Mato Grosso do Sul
 
   - title:      The 2016 ACM International Collegiate Programming Contest South America/Brazil Finals
     location:   Belo Horizonte, MG, Brasil
-    date:       { month: [ 9, 11], year: 2016 }
+    date:       { month: 11, year: 2016 }
     details:
       - First in the Qualifiers for Mato Grosso and Mato Grosso do Sul
       - Participated in the Brazilian Finals, representing Mato Grosso do Sul
@@ -163,3 +163,13 @@ publications:
     details:
       - Work presented in The International Conference on Computational Science and its Applications
       - Work developed for Masters degree in Computer Science
+
+patents:
+  - title:      AGAPES
+    office:     Instituto Nacional de Propriedade Industrial
+    country:    Brazil
+    date:       { month:  3, year: 2015 }
+    number:     BR512015001403-0
+    details:
+      - Computer program developed in Python
+      - Software for processing aerial images of sugarcane crops

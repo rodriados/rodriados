@@ -139,14 +139,14 @@ languages:
 awards:
   - title:      XIX Maratona Brasileira de Programação
     location:   Fortaleza, CE, Brasil
-    date:       { month: [ 9, 11], year: 2014 }
+    date:       { month: 11, year: 2014 }
     details:
       - Primeiro nas qualificatórias de Mato Grosso do Sul
       - Participação nas finais brasileiras, representando ao estado de Mato Grosso do Sul
 
   - title:      XXI Maratona Brasileira de Programação
     location:   Belo Horizonte, MG, Brasil
-    date:       { month: [ 9, 11], year: 2016 }
+    date:       { month: 11, year: 2016 }
     details:
       - Primeiro nas qualificatórias regionais entre os estados de Mato Grosso e Mato Grosso do Sul
       - Participação nas finais brasileiras, representando ao estado de Mato Grosso do Sul
@@ -163,3 +163,13 @@ publications:
     details:
       - Trabalho apresentado na Conferência Internacional de Ciência Computacional e suas Aplicações
       - Trabalho desenvolvido para a conclusão de curso de Mestrado em Ciência da Computação
+
+patents:
+  - title:      AGAPES
+    office:     Instituto Nacional de Propriedade Industrial
+    country:    Brasil
+    date:       { month:  3, year: 2015 }
+    number:     BR512015001403-0
+    details:
+      - Programa de computador desenvolvido em Python
+      - Software para o processamento de imagens aéreas de plantações de cana-de-açúcar
