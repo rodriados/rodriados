@@ -2,11 +2,11 @@ name: Rodrigo Siqueira
 location: Campo Grande, MS, Brasil
 orcid: 0000-0002-0193-5188
 
-summary:
+summary: >
   Desenvolvedor e engenheiro de software especialista em back-end com experiência
   profissional em empresas nacional e mundialmente conhecidas.
 
-mission:
+mission: >
   Desenvolvimento de um mundo melhor através da criação de soluções tecnológicas
   que objetivam facilitar e tranquilizar a vida da sociedade.
 
@@ -100,7 +100,8 @@ experience:
   - entity:     Nibo Softwares e Cursos
     role:       Desenvolvedor Back-end
     type:       Tempo Integral
-    location:   Rio de Janeiro, RJ, Brasil
+    location:
+      city:     Rio de Janeiro, RJ, Brasil
       remote:   true
     started:    { month:  9, year: 2020 }
     stopped:    { month:  5, year: 2021 }
@@ -112,28 +113,30 @@ experience:
   - entity:     GFT Group Brasil
     role:       Desenvolvedor Back-end .NET
     type:       Tempo Integral
-    location:   Sorocaba, SP, Brasil
+    location:
+      city:     Sorocaba, SP, Brasil
       remote:   true
     started:    { month:  6, year: 2021 }
     stopped:    false
     details:
       - Desenvolveu sistema responsável para a compilação de dados públicos do OpenBanking Brasil
+      - Desenvolve microsserviços e APIs web para sistemas do Tesouro Direto usando C#, .NET e Kafka
       - Modelou e projetou banco de dados não-relacional CosmosDB
 
 languages:
-  - language:   { name: português brasileiro, symbol: pt-BR }
+  - language:   { name: Português Brasileiro, symbol: pt-BR }
     skills:     [ fala, leitura, escrita ]
     level:      nativo
 
-  - language:   { name: inglês, symbol: en-US }
+  - language:   { name: Inglês, symbol: en-US }
     skills:     [ fala, leitura, escrita ]
     level:      c2
 
-  - language:   { name: espanhol, symbol: es }
+  - language:   { name: Espanhol, symbol: es }
     skills:     [ fala, leitura, escrita ]
     level:      c1
 
-  - language:   { name: alemão, symbol: de-DE }
+  - language:   { name: Alemão, symbol: de-DE }
     skills:     [ fala, leitura, escrita ]
     level:      b1
 

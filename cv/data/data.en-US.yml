@@ -2,11 +2,11 @@ name: Rodrigo Siqueira
 location: Campo Grande, MS, Brazil
 orcid: 0000-0002-0193-5188
 
-summary:
+summary: >
   Developer and software engineer specialized on back-end with professional experience
   adquired in companies of international recognition.
 
-mission:
+mission: >
   The development of a better world through the creation of technological solutions
   aiming to make life in our society easier and more comfortable.
 
@@ -100,40 +100,43 @@ experience:
   - entity:     Nibo Softwares e Cursos
     role:       Back-end Developer
     type:       Full-time
-    location:   Rio de Janeiro, RJ, Brazil
+    location:
+      city:     Rio de Janeiro, RJ, Brazil
       remote:   true
     started:    { month:  9, year: 2020 }
     stopped:    { month:  5, year: 2021 }
     details:
-      - Developed Virtual PDF Printer for Windows 10 using .NET framework.
-      - Developed Document Data Extraction systems using C# and Kotlin.
-      - Developed REST APIs for large-scale and high demand systems using .NET frameworks.
+      - Developed Virtual PDF Printer for Windows 10 using .NET framework
+      - Developed Document Data Extraction systems using C# and Kotlin
+      - Developed REST APIs for large-scale and high demand systems using .NET frameworks
 
   - entity:     GFT Group Brazil
     role:       .NET Back-end Developer
     type:       Full-time
-    location:   Sorocaba, SP, Brazil
+    location:
+      city:     Sorocaba, SP, Brazil
       remote:   true
     started:    { month:  6, year: 2021 }
     stopped:    false
     details:
       - Developed system responsible for compiling public data from Brazil's OpenBanking APIs
+      - Develops microservices and web APIs for stock market systems using C#, .NET and Kafka
       - Modelled and projected non-relation database using CosmosDB
 
 languages:
-  - language:   { name: brazilian portuguese, symbol: pt-BR }
+  - language:   { name: Brazilian Portuguese, symbol: pt-BR }
     skills:     [ speaking, reading, writing ]
     level:      native
 
-  - language:   { name: inglês, symbol: en-US }
+  - language:   { name: English, symbol: en-US }
     skills:     [ speaking, reading, writing ]
     level:      c2
 
-  - language:   { name: espanhol, symbol: es }
+  - language:   { name: Spanish, symbol: es }
     skills:     [ speaking, reading, writing ]
     level:      c1
 
-  - language:   { name: alemão, symbol: de-DE }
+  - language:   { name: German, symbol: de-DE }
     skills:     [ speaking, reading, writing ]
     level:      b1
 
