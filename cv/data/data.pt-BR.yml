@@ -117,7 +117,7 @@ experience:
       city:     Sorocaba, SP, Brasil
       remote:   true
     started:    { month:  6, year: 2021 }
-    stopped:    false
+    stopped:    { month:  7, year: 2022 }
     details:
       - Desenvolveu sistema responsável para a compilação de dados públicos do OpenBanking Brasil
       - Desenvolve microsserviços e APIs web para sistemas do Tesouro Direto usando C#, .NET e Kafka
