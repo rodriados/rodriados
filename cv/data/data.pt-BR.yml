@@ -123,6 +123,15 @@ experience:
       - Desenvolve microsserviços e APIs web para sistemas do Tesouro Direto usando C#, .NET e Kafka
       - Modelou e projetou banco de dados não-relacional CosmosDB
 
+  - entity:     Amazon.com
+    role:       Engenheiro de Desenvolvimento de Software
+    type:       Tempo Integral
+    location:
+      city:     São Paulo, SP, Brasil
+      remote:   true
+    started:    { month:  8, year: 2022 }
+    stopped:    false
+
 languages:
   - language:   { name: Português Brasileiro, symbol: pt-BR }
     skills:     [ fala, leitura, escrita ]
