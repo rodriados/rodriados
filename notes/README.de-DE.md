@@ -18,4 +18,4 @@ dieser Dateien ist vorhersehbar und sogar *sehr* wahrscheinlich. Die Existenz di
 Zum Schluss, entschuldigen Sie mich für eventuelle Rechtschreib- und Grammatikfehler,
 insbesondere in den seltenen Notizen, die auf Deutsch geschrieben wurden.
 
-[2021](2021), [2022](2022)
+[2021](2021), [2022](2022), [2023](2023)
