@@ -1,98 +1,69 @@
 # O Problema com as Redes Sociais
 
-Quando as primeiras redes sociais vieram à tona, seus conceitos sempre foram baseados
-em uma bastante ampla e simples de permitir que as pessoas de alguma maneira se
-conectassem com seus amigos e conhecidos, especialmente quando distantes uns dos
-outros. Ainda que desde os primeiros dias essa ideia tenha sido implementada como
-algum tipo de plataforma de bate-papo, hoje em dia ela é acompanhada de uma lista
-cada vez maior de recursos feitos sob medida para capturar mentes humanas através
-do vício.
+O conceito de redes sociais, desde que as pioneiras surgiram, sempre foi baseado
+na capacidade de criar ou fortalecer laços entre pessoas reais pela internet. Ainda
+que simples, essa ideia revolucionou a sociedade ao conectar e aproximar e diminuir
+distâncias entre amigos, familiares ou completos desconhecidos por todo o globo.
+O que no princípio, porém, limitava-se a plataformas de mensagens por texto em geral,
+hoje dispõe de uma lista extensa, exaustiva e sempre crescente de recursos construídos
+sob medida para capturar a mente através do vício.
 
-A rápida expansão, popularização e facilidade de acesso à internet, tal como o boom
-de aparelhos como smartphones em todo o mundo, semeou um ambiente de crescimento
-exponencial para as redes sociais. Essas, por sua vez, transformaram-se em grandes
-corporações cujos maiores ativos são o tempo em que conseguem nos manter distraídos
-e toda pequena informação que conseguem extrair de seus usuários.
+A rápida expansão, a ampla popularização e a democratização global do acesso à internet,
+aliado ao boom de aparelhos móveis em todo o mundo, semearam um ambiente fértil
+para o crescimento meteórico desses serviços. Logo transformaram-se em corporações
+multinacionais cujos maiores ativos são a atenção humana e toda informação pessoal
+que conseguem obter. Assim, registram lucros astronômicos a partir da improdutividade
+e da falta de privacidade de seus usuários.
 
 ### "Você nunca larga desse celular!"
 
-Nos nossos dias atuais, com o apelo de novidades constantes na forma de um fluxo
-sem fim de quantidades incomensuráveis de textos, fotos e vídeos, cenas de indivíduos
-olhando e digitando em suas próprias telas ao invés de conversar com alguém ao seu
-lado são vistas frequentemente. Embora muitos tenham escrito observações similares
-e preocupantes no passado sobre livros e a televisão, quando esses ainda não eram
-comuns a todas as famílias, a extensão do fenômeno moderno é realmente impressionante.
+Devido à constante atração do fluxo de novidades e informações a todo instante sobre
+tudo o que acontece no mundo nas palmas das mãos, não são raras ocasiões em que
+indivíduos preferem a companhia de suas telas à de alguém ao seu lado. Não é a primeira
+vez que um fenômeno social com essas características é descrito: relatos semelhantes
+eram comuns à época em que livros e a televisão ainda não eram acessíveis a todas
+as famílias. Não obstante, a extensão do que é observado na atualidade impressiona.
 
-Apesar de à primeira vista aparentar irrelevante, não são raras as vezes em que
-as consequências desse vício são ruins. Motoristas e ciclistas, por exemplo, são
-frequentemente vistos imprudentemente dividindo suas atenções entre celulares e
-a condução de seus veículos, efetivamente aumentando a taxa de incidentes relacionados
-ao tráfego.
+Apesar da aparente superficialidade e inofensividade, as consequências desse comportamento,
+ao extrapolar, são frequentemente ruins. Serve como demonstração a existência de
+campanhas públicas para que motoristas e ciclistas, por exemplo, não dividam atenção
+entre a condução de seus veículos e seus aparelhos, o que efetivamente eleva a taxa
+de incidentes relacionados ao tráfego.
 
-Outros, alheios a qualquer tipo de preocupações com privacidade, publicam cada aspecto
-de suas vidas ao compartilhar, a todos ou apenas àqueles que estão virtualmente
-conectados, atualizações contínuas sobre localização e atividades atuais, como se
-verdadeiramente vivessem em uma sociedade virtual. A quantidade de informações geradas
-com isso torna-se inadministrável e inapagável, possivelmente induzindo a consequências
-na vida real, já que há muita informação passível de ser descontextualizada, manipulada
-inescrupulosamente e utilizada para causar danos.
-
-### "As pessoas hoje em dia tem mais amigos virtuais que reais!"
-
-É denotativo que sociedades virtuais sejam compostas de amizades e toda outra sorte
-de interações sociais virtuais entre seus membros. Não apenas isso, mas esses próprios
-membros são também virtuais, tal que pode ser impossível às vezes definir se eles
-são uma representação digital confiável de uma pessoa, uma empresa ou qualquer coisa
-real. Assim, nem seus membros são esperados a se comportar como reais.
-
-De acordo com alguns antropologistas, nós somos capazes de nutrir apenas uma quantidade
-bastante limitada de relacionamentos significativos durante nossas vidas. É natural,
-então, que a maioria de nossas amizades desaparessem e fossem esquecidas... se não
-as houvéssemos adicionado às nossas redes sociais. Para alguns, o conceito de uma
-amizade, por isso, transformou-se uma frágil interação onde o reconhecimento da
-existencia de uma pessoa vez ou outra é suficiente, eventualmente prejudicando relações
-que duradouras e possivelmente fertilizando solidão, apesar do alto número de "amigos".
-
-Noutro espectro, há aqueles que utilizam esses meios para ativamente justar a maior
-quantidade de pessoas - seguidores - quanto possível em suas comunidades, ou para
-satisfazer uma vontade por atenção, auto-aceitação ou popularidade supérflua, ou
-para entreter ou educar. À semelhança de artistas e pessoas públicas em geral, com
-exposição e fama vêm-se também influência, que por sua vez pode ser usada para o
-bem, mas também explorada para impor à multidão ouvinte e conivente, como autoridade,
-suas próprias opiniões e ideais.
+Outros, ao mesmo tempo, alheios a quaisquer preocupações em relação à própria privacidade,
+voluntariamente publicam cada aspecto particular de suas vidas ao compartilhar,
+com quem quer que seja, atualizações contínuas sobre suas localizações ou atividades.
+A quantidade de informações pessoais assim geradas torna-se rapidamente inadministrável,
+permitindo o uso deliberado, descontextualizado e inescrupuloso por terceiros para
+causar danos.
 
 ### "Você não pode pensar diferente de mim!"
 
-As redes sociais notoriamente concederam a seus membros a habilidade de escolher
-e filtrar o quê e a quem querem ser expostos e ter contato. Mesmo que tal capacidade
-pareça inofensiva, indivíduos com interesses comuns logo juntaram-se e agruparam-se
-em bolhas isoladas, onde suas crenças podem ser prezadas e fortalecidas em segurança,
-abrigadas das influências ameaçadoras de visões de mundo diferentes. Essa tendência,
-conhecida como viés de confirmação, é estimulada pelas próprias plataformas, que
-mostrarão a seus usuários apenas informações com as quais possivelmente concordam.
+Entretanto, ao meu ver, o maior mal oferecido à sociedade pelas redes sociais talvez
+seja a habilidade de seus membros filtrarem e escolherem a quem, e por consequência
+o quê, desejam ser expostos. Esse poder, aparentemente positivo, promove agrupamentos
+ao redor de interesses comuns, nutrindo verdadeiras bolhas sociais onde toda sorte
+de crença pode ser prezada e fortalecida inconteste, protegida das ameaças de qualquer
+visão de mundo adversa. Tal viés de confirmação é estimulado pelas próprias plataformas,
+que buscam mostrar a seus usuários apenas aquelas informações que se alinham sob
+medida às suas convicções.
 
-A natureza inerente de um ambiente virtual, marcado por interações rápidas e não
-importantes, não é muito propícia a discussões detalhadas, bem-pensadas e articuladas,
-portanto longas. Tal cenário, em adição à convicção de pertencimento a um grupo
-majoritário e a rejeição e desconhecimento de pontos de vista heterogêneos, conduz
-a conflitos com aqueles contrários sempre que se encontram, seguindo-se assim episódios
-de contendas acaloradas cheias de xingamentos e argumentos _ad verecundiam_, insípidos,
+Marcada por interações rápidas e desimportantes, a natureza de ambientes virtuais
+não é propícia a longas discussões detalhadas, bem-pensadas e articuladas. Isso,
+em adição ao sentimento generalizado de pertencimento a um grupo majoritário, quiçá
+quase unânime, produz fortes conflitos quando ideais opostos eventualmente se encontram.
+A rejeição e o desconhecimento de pontos de vista heterogêneos conduzem a episódios
+de acaloradas contendas, regadas a xingamentos e argumentos _ad hominem_, insípidos,
 vazios e violentos.
 
-Ainda pior são as ocasiões em que alguém ou um grupo influente irradia desaprovação
-ou hostilidade direta a um alvo desavisado. Nessas situações, multidões virtuais
-modeladas primariamente por comportamento de manada, sem qualquer tipo de avaliação
-justa prévia e frequentemente baseada em fatos imprecisos ou mal-interpretados,
-juntam-se para esbravejar, difamar e prejudicar qualquer pessoa, grupo ou empresa
-que não sujeitar-se às suas opiniões nas menores coisas. Impactos imprevisíveis
-são provocados às mentes daqueles incapazes de lidar com a desonra.
+Não suficiente, vez ou outra personalidades ou grupos influentes decidem demonstrar
+desaprovação ou hostilidade direta a um alvo desavisado, induzindo multidões a comportamentos
+rejeitáveis, sem qualquer tipo de avaliação pessoal prévia e comumente baseada em
+fatos passados, imprecisos ou mal-interpretados. Difama-se e esbraveja-se contra
+todo aquele que não acate qualquer minúcia de suas opiniões, impactando de formas
+imprevisíveis os incapazes de lidar com o ataque.
 
-Em que pese os problemas supracitados além da rápida propagação de notícias falsas
-possibilitada por elas, é perceptível que as redes sociais, em geral, trouxeram
-também muitos benefícios à nossas vidas comteporâneas. Para citar alguns: hoje é
-possível saber em tempo real tudo o que está acontecendo no mundo; além de ser muito
-mais fácil de encontrar e trocar de emprego já que não se faz mais necessário perambular
-distribuindo currículos ao maior número de empregadores possível. Não obstante,
-faz-se necessário que sejamos cuidadosos ao utilizar ferramentas tão poderosas,
-a fim de evitar que possamos trazer consequências significativas às nossas vidas
-e de outros. ■
+Em que pese tais problemas, em conjunto a alguns outros, é evidente que as redes
+sociais trouxeram, em geral, benefícios às nossas vidas contemporâneas. Não obstante,
+é necessário vigilância ao utilizar ferramentas tão poderosas, a fim de evitar que
+consequências significativas afete a nossa vida e a de outros. ■
