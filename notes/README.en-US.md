@@ -15,4 +15,4 @@ likely. The very existence of these logs is not guaranteed for long.
 
 Finally, I apologize for eventual spelling and grammar errors.
 
-[2021](2021), [2022](2022), [2023](2023), [2024](2024)
+[2021](2021), [2022](2022), [2023](2023), [2024](2024), [2025](2025)
