@@ -120,7 +120,7 @@ experience:
     stopped:    { month:  7, year: 2022 }
     details:
       - Desenvolveu sistema responsável para a compilação de dados públicos do OpenBanking Brasil
-      - Desenvolve microsserviços e APIs web para sistemas do Tesouro Direto usando C#, .NET e Kafka
+      - Desenvolveu microsserviços e APIs web para sistemas do Tesouro Direto usando C#, .NET e Kafka
       - Modelou e projetou banco de dados não-relacional CosmosDB
 
   - entity:     Amazon.com
@@ -131,6 +131,10 @@ experience:
       remote:   true
     started:    { month:  8, year: 2022 }
     stopped:    false
+    details:
+      - Desenvolve software escalável para conformidade governamental e fiscal
+      - Desenvolve sistemas e APIs críticos para controle de inventário e emissão de notas fiscais
+      - Desenvolve e projeta sistemas com arquitetura de microsserviços usando AWS, Kotlin e Java
 
 languages:
   - language:   { name: Português Brasileiro, symbol: pt-BR }

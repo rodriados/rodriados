@@ -120,7 +120,7 @@ experience:
     stopped:    { month:  7, year: 2022 }
     details:
       - Developed system responsible for compiling public data from Brazil's OpenBanking APIs
-      - Develops microservices and web APIs for stock market systems using C#, .NET and Kafka
+      - Developed microservices and web APIs for stock market systems using C#, .NET and Kafka
       - Modelled and projected non-relation database using CosmosDB
 
   - entity:     Amazon.com
@@ -131,6 +131,10 @@ experience:
       remote:   true
     started:    { month: 8, year: 2022 }
     stopped:    false
+    details:
+      - Develops scalable software for government compliance and taxation processes
+      - Develops critical systems and APIs for inventory control and invoice issuance
+      - Develops and designs systems with microservices architecture using AWS, Kotlin and Java
 
 languages:
   - language:   { name: Brazilian Portuguese, symbol: pt-BR }
