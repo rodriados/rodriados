@@ -16,4 +16,4 @@ provável. A própria existência destas notas não está garantida por muito te
 
 Finalmente, perdoe-me por eventuais erros gramaticais e ortográficos.
 
-[2021](2021), [2022](2022), [2023](2023), [2024](2024), [2025](2025)
+[2021](2021), [2022](2022), [2023](2023), [2024](2024), [2025](2025), [2026](2026)
