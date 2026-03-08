@@ -130,11 +130,22 @@ experience:
       city:     São Paulo, SP, Brazil
       remote:   true
     started:    { month: 8, year: 2022 }
+    stopped:    { month: 2, year: 2026 }
+    details:
+      - Developed scalable software for government compliance and taxation processes
+      - Developed critical systems and APIs for inventory control and invoice issuance
+      - Developed and designs systems with microservices architecture using AWS, Kotlin and Java
+
+  - entity:     Grupo QuintoAndar
+    role:       Senior Software Engineer
+    type:       Full-time
+    location:
+      city:     São Paulo, SP, Brazil
+      remote:   true
+    started:    { month:  3, year: 2026 }
     stopped:    false
     details:
-      - Develops scalable software for government compliance and taxation processes
-      - Develops critical systems and APIs for inventory control and invoice issuance
-      - Develops and designs systems with microservices architecture using AWS, Kotlin and Java
+      - TODO
 
 languages:
   - language:   { name: Brazilian Portuguese, symbol: pt-BR }

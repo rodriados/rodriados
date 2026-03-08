@@ -130,11 +130,22 @@ experience:
       city:     São Paulo, SP, Brasil
       remote:   true
     started:    { month:  8, year: 2022 }
+    stopped:    { month:  2, year: 2026 }
+    details:
+      - Desenvolveu software escalável para conformidade governamental e fiscal
+      - Desenvolveu sistemas e APIs críticos para controle de inventário e emissão de notas fiscais
+      - Desenvolveu e projeta sistemas com arquitetura de microsserviços usando AWS, Kotlin e Java
+
+  - entity:     Grupo QuintoAndar
+    role:       Engenheiro de Software Sênior
+    type:       Tempo Integral
+    location:
+      city:     São Paulo, SP, Brasil
+      remote:   true
+    started:    { month:  3, year: 2026 }
     stopped:    false
     details:
-      - Desenvolve software escalável para conformidade governamental e fiscal
-      - Desenvolve sistemas e APIs críticos para controle de inventário e emissão de notas fiscais
-      - Desenvolve e projeta sistemas com arquitetura de microsserviços usando AWS, Kotlin e Java
+      - TODO
 
 languages:
   - language:   { name: Português Brasileiro, symbol: pt-BR }
